@@ -11,6 +11,8 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-17-lightgrey.svg)  
 ![Azure ACI](https://img.shields.io/badge/Azure%20ACI-blue.svg)  
 
+[Demo Video Of the Project](https://drive.google.com/file/d/13ngHxWIQa_kJ7geAtU8zIAkw1NKk-2BF/view?usp=sharing)
+
 ---
 
 ## 📖 Table of Contents
