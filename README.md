@@ -78,7 +78,7 @@ All data is stored in Azure Cosmos DB (MongoDB API) and served via an Azure Cont
 
 ## 📁 Project Structure
 ```
-final-project-NirmayDas/
+Distributed-Library-Management-System/
 ├── ServerSide/
 │   ├── pom.xml
 │   └── src/main/java/com/nirmaydas/serverside/
