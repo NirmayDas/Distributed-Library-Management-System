@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" spacing="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.202">
+    <Label fx:id="reviewsTitleLabel" text="Reviews for Book" />
+    <TextArea fx:id="reviewsArea" editable="false" prefHeight="200" prefWidth="400" wrapText="true" />
+    <TextField fx:id="newReviewField" promptText="Enter your review..." prefWidth="400" />
+    <Button fx:id="submitReviewButton" onAction="#submitReview" text="Submit Review" />
+    <Button fx:id="closeButton" onAction="#closePopup" text="Close" />
+</VBox>
