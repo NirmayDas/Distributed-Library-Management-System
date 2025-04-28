@@ -29,7 +29,7 @@
 ---
 
 ## 🔍 Overview
-A distributed client-server application built for **ECE 422C** at UT Austin. Library members can:
+A distributed client-server application built to showcase object-oriented programming skills. Library members can:
 - Browse a catalog  
 - Borrow and return items  
 - Leave reviews  
