@@ -142,7 +142,6 @@ mvn exec:java@run-client
 ## 📬 Contact & Acknowledgments
 - **Made by:**: Nirmay Das  
 - **Email**: [nirmaydas99@gmail.com](mailto:nirmaydas99@gmail.com)  
-- Built for **ECE 422C**, The University of Texas at Austin  
 - Utilizes JavaFX, GSON, MongoDB Java Driver, Azure ACI  
 
 ---
