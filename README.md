@@ -105,8 +105,7 @@ Distributed-Library-Management-System/
 ## 🚀 Setup & Running
 
 ### Server
-1. **Cloud (Azure ACI)**  
-   - Hosted at `52.154.157.129:5000`  
+1. **Cloud (Azure ACI)**   
    - Verify with:  
      ```bash
      az container show        --resource-group myResourceGroup        --name library-server
